@@ -14,13 +14,7 @@
   ],
   "author": "Almaraz Abel",
   "license": "ISC",
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "^11.5.1",
-      "onFail": "download"
-    }
-  },
+  "packageManager": "pnpm@11.5.2",
   "type": "module",
   "dependencies": {
     "cors": "^2.8.6",
