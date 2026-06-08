@@ -40,9 +40,7 @@ app.get('/api/horarios', (req, res) => {
     });
 });
 
-
 // 4. INICIAR EL SERVIDOR
-
 app.listen(PORT , ()=>{
     console.log(`Servidor de la Cafetería corriendo en http://localhost:${PORT}`);
 })
