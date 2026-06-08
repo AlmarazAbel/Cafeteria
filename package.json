@@ -1,0 +1,20 @@
+{
+  "name": "18-cafeteria",
+  "version": "1.0.0",
+  "description": "Backend de Cafeteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["server","port","middlewares"],
+  "author": "Almaraz Abel",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.5.1",
+      "onFail": "download"
+    }
+  },
+  "type": "module"
+}
